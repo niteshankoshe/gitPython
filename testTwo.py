@@ -1,2 +1,6 @@
-print("This change sould reflect in local machine")
-print("I would like to push another change to git hub")
+#conditions
+user_number = int(input("enter the number:"))
+if(user_number % 2 == 0):
+    print("Even Number")
+else:
+    print("Odd number")
