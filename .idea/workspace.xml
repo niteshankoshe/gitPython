@@ -48,6 +48,7 @@
     "Python.FizzBuzz.executor": "Run",
     "Python.PalindromeCheck.executor": "Run",
     "Python.TestOne.executor": "Run",
+    "Python.palindromeNew.executor": "Run",
     "Python.testTwo.executor": "Run",
     "Python.three.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
