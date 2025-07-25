@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c744e58d-3e0c-47ca-ab17-67110dca2eaa" name="Changes" comment="move">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three.py" beforeDir="false" afterPath="$PROJECT_DIR$/three.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.FizzBuzz.executor": "Run",
+    "Python.PalindromeCheck.executor": "Run",
     "Python.TestOne.executor": "Run",
     "Python.testTwo.executor": "Run",
     "Python.three.executor": "Run",
@@ -54,6 +54,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonProjects" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
