@@ -48,12 +48,14 @@
     "Python.FizzBuzz.executor": "Run",
     "Python.PalindromeCheck.executor": "Run",
     "Python.TestOne.executor": "Run",
+    "Python.four.executor": "Run",
     "Python.palindromeNew.executor": "Run",
     "Python.sumDigits.executor": "Run",
     "Python.sumofdigitnew.executor": "Run",
     "Python.testTwo.executor": "Run",
     "Python.three.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
